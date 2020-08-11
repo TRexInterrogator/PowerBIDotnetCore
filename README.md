@@ -4,9 +4,9 @@ This sample project demonstrates how to use PowerBI with the .NET Core API as a 
 
 ## Running this sample
 Open `./src/release` and find the folder with your operating system.
-Start / Run `src.exe`. The webserver should bind to port: 5000-5001.
+Start / Run `src.exe`. The webserver should bind to port: 5000 (http).
 
-Open the PowerBI file in `./src/release/WeatherData.pbix` and click on "Update". Each time you request updated data from the PBI report the values should change.
+Open the PowerBI file in `./src/release/WeatherData.pbix` and click on "Refresh". Each time you request updated data from the PBI report the values should change.
 
 
 
